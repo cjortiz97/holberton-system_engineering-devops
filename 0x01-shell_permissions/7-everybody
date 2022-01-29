@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x hello
+chmod -R 111 folder_name hello
