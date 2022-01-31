@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | trail /etc/passwd
+cat | trail - n 10  /etc/passwd
